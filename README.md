@@ -1,2 +1,2 @@
-# cypress-framework
-[Udemy] Automated Software Testing with Cypress [2020] by Kaniel Outis
+# [Udemy] Automated Software Testing with Cypress [2020] by Kaniel Outis
+## Cypress Framework
