@@ -52,5 +52,5 @@ Cypress.Commands.add('login', (username, password) => {
 
   cy.get('#user_remember_me').click();
 
-  cy.contains('Sing in').click();
+  cy.contains('Sign in').click();
 });
