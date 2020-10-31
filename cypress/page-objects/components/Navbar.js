@@ -7,6 +7,10 @@ export default class Navbar {
     cy.get('#searchTerm').type(`${term} {enter}`);
   }
 
+  static displaySignInButton() {
+    cy.isVisible('#signin_button');
+  }
+
   static clickSignIn() {
     cy.get('#signin_button').click();
   }
